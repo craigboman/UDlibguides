@@ -1,0 +1,17 @@
+<style>  
+body {  
+    background-image: url("http://library2.udayton.edu/images/blue-header.jpg");  
+    background-repeat: repeat-x;  
+}  
+ 
+.s-lib-box .s-lib-box-title {  
+color: #004B8D;  
+font-size: 18px;  
+font-weight: normal;  
+line-height: 1;  
+margin: 15px 0 5px;  
+padding: 0px;  
+text-transform: uppercase;  
+}  
+</style>
+ \ No newline at end of file
