@@ -1,0 +1,24 @@
+div.header-background {
+	margin-top: 0;
+	border-top: none;
+	background-color: #004B8E;
+	height: 148px;
+	widgth: 100%;
+	position:relative;
+	height: 148px;
+	width: 980px;
+	margin-left: 10%;
+	margin-right: 10%;
+	display: flex;
+}
+
+@font-face { font-family: Chronicle; src: url('Chronicle Text G4 Roman.otf'); } 
+
+div.transbox {
+	font-family: Chronicle; 
+	font-size: 75px; 
+	color: white; 
+	border-bottom:none;
+	margin-top: 20px;
+	margin-left: 335px;
+}
